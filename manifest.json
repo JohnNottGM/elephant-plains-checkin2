@@ -1,0 +1,10 @@
+{
+  "name": "Elephant Plains Guest Check-In",
+  "short_name": "Elephant Plains",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4efe6",
+  "theme_color": "#3b3934",
+  "description": "Offline-first guest indemnity and check-in application for Elephant Plains Game Lodge.",
+  "icons": []
+}
