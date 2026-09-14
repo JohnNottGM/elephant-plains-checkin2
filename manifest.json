@@ -1,0 +1,10 @@
+{
+  "name": "Elephant Plains Guest Check-In V37",
+  "short_name": "EP Check-In V37",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4efe6",
+  "theme_color": "#3b3934",
+  "description": "Elephant Plains Game Lodge guest check-in app V37",
+  "icons": []
+}
